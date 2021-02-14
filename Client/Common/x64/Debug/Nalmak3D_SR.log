@@ -1,0 +1,25 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\82108\Documents\Nalmak_SR\Client\Bin\x64\Debug\default.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\82108\Documents\Nalmak_SR\Client\Bin\x64\Debug\line.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\82108\Documents\Nalmak_SR\Client\Bin\x64\Debug\noneNormal.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\82108\Documents\Nalmak_SR\Client\Bin\x64\Debug\particle.cso
+  stdafx.cpp
+  Nalmak3D_SR.cpp
+  TitleScene.cpp
+  StageScene.cpp
+  PlaneInfo.cpp
+  PlaneController.cpp
+  NextSceneLoad.cpp
+  MainGame.cpp
+  ClimbTerrain.cpp
+  코드를 생성하고 있습니다...
+     ../Bin/x64\Debug\Nalmak3D_SR.lib 라이브러리 및 ../Bin/x64\Debug\Nalmak3D_SR.exp 개체를 생성하고 있습니다.
+  Nalmak3D_SR.vcxproj -> C:\Users\82108\Documents\Nalmak_SR\Client\Common\../Bin/x64\Debug\Nalmak3D_SR.exe
+  Nalmak3D_SR.vcxproj -> ../Bin/x64\Debug\Nalmak3D_SR.pdb (Full PDB)
